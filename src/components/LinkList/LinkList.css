@@ -1,0 +1,12 @@
+.navigation{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navigation__button{
+    margin-top: 30px;
+    padding: 5px;
+
+    box-shadow: 2px 2px black, -2px -2px black;
+    cursor: pointer;
+}

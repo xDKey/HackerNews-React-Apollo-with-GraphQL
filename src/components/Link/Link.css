@@ -1,0 +1,24 @@
+.link{
+    border: 2px solid black;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.link__header{
+    display: flex;
+    align-items: center;
+}
+
+.link__vote{
+    margin-left: 10px;
+    cursor: pointer;
+    box-shadow: 2px 2px black;
+    padding: 4px;
+}
+
+.link__vote:hover{
+    box-shadow: inset 2px 2px black;
+}

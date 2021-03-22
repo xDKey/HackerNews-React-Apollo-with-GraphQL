@@ -1,0 +1,5 @@
+.search__button{
+    cursor: pointer;
+    box-shadow: 2px 2px black;
+    padding: 4px;
+}

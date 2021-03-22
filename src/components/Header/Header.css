@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    align-items: center;
+    background-color: cyan;
+}
+
+.header__link{
+    color: black;
+
+    margin-left: 30px;
+    padding: 5px;
+
+    text-decoration: none;
+    
+    box-shadow: 2px 2px black, -2px -2px black;
+    cursor: pointer;
+}
+
+.login{
+    /* justify-self: flex-end; */
+    position: absolute;
+    right: 10px;
+}
